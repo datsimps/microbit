@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/datsimps/systems/microbit/target/thumbv7em-none-eabihf/debug/build/nrf52833-pac-2e7a9774e58422e8/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

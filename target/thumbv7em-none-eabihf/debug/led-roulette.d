@@ -1,0 +1,1 @@
+/home/datsimps/systems/microbit/target/thumbv7em-none-eabihf/debug/led-roulette: /home/datsimps/systems/microbit/src/03-setup/build.rs /home/datsimps/systems/microbit/src/03-setup/memory.x /home/datsimps/systems/microbit/src/03-setup/src/main.rs

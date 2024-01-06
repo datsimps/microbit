@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/datsimps/systems/microbit/target/debug/build/rtt-check-5f32c62c2aeffd7c/out
+cargo:rerun-if-changed=memory.x
